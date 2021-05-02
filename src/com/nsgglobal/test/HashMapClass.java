@@ -10,7 +10,7 @@ public class HashMapClass {
 	hmapListObj.put("Hello",10); //oioi
 	hmapListObj.put("Hello", 30);
 	
-	System.out.println("hmapListObj:\t" + hmapListObj.get("Hello"));
+	System.out.println("hmapListObj:\t" + hmapListObj.get("Hello")); //uuu
 	}
 	
 
