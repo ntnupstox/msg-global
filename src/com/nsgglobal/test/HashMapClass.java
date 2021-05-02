@@ -8,7 +8,7 @@ public class HashMapClass {
 		//oooooo
 	HashMap<String, Integer> hmapListObj = new HashMap<>(); //pppppppppppppppppp
 	hmapListObj.put("Hello",50);
-	hmapListObj.put("Hello", 90);
+	hmapListObj.put("Hello", 770);
 	
 	System.out.println("hmapListObj:\t" + hmapListObj.get("Hello"));
 	}
